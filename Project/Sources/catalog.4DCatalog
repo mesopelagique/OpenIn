@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE base SYSTEM "http://www.4d.com/dtd/2007/base.dtd" >
+<base name="OpenIn" uuid="3203C9B6097E454AB5E09C10ABCA70AA" collation_locale="en-gb">
+	<schema name="DEFAULT_SCHEMA"/>
+</base>

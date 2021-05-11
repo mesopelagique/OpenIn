@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE macros SYSTEM "http://www.4d.com/dtd/2007/macros.dtd">
+<macros>
+  <macro name="-">
+  <text> </text>
+  </macro>
+  <macro in_menu="true" name="Open in (&lt;B" type_ahead="false" version="2">
+    <text>  
+    </text>
+  </macro>
+  <macro in_menu="true" name="  Terminal" type_ahead="false" version="2">
+    <text>
+      <method>openIn("terminal"; "<method_path/>")</method>
+    </text>
+  </macro>
+  <macro in_menu="true" name="  Finder" type_ahead="false" version="2">
+    <text>
+      <method>openIn("finder"; "<method_path/>")</method>
+    </text>
+  </macro>
+  <macro in_menu="true" name="  Visual Studio Code" type_ahead="false" version="2">
+    <text>
+      <method>openIn("code"; "<method_path/>")</method>
+    </text>
+  </macro>
+  <macro in_menu="true" name="  SourceTree" type_ahead="false" version="2">
+    <text>
+      <method>openIn("sourcetree"; "<method_path/>")</method>
+    </text>
+  </macro>
+  <macro in_menu="true" name="  Github Desktop" type_ahead="false" version="2">
+    <text>
+      <method>openIn("githubdesktop"; "<method_path/>")</method>
+    </text>
+  </macro>
+  <macro in_menu="true" name="  Github" type_ahead="false" version="2">
+    <text>
+      <method>openIn("github"; "<method_path/>")</method>
+    </text>
+  </macro>
+</macros>
