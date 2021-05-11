@@ -2,7 +2,7 @@
 #DECLARE($app : Text; $methodPath : Text)
 
 var $workingDirectory : 4D:C1709.Folder
-$workingDirectory:=Folder:C1567(Folder:C1567(fk database folder:K87:14).platformPath; fk platform path:K87:2)
+$workingDirectory:=Folder:C1567(Folder:C1567(fk database folder:K87:14; *).platformPath; fk platform path:K87:2)
 
 var $workingFile : 4D:C1709.File
 $workingFile:=$workingDirectory.file(fileForMethod($methodPath))
