@@ -13,7 +13,7 @@ This add items in method editor macro menu.
 
 ---
 
-💡 But you could also access theme by typing `⇧⌘/`(ie. launch `Help > Search`) and then for instance write `terminal`, and choose with down arrow the action to launch.
+💡 But you could also access them by typing `⇧⌘/`(ie. launch `Help > Search`) and then for instance write `terminal`, and choose with down arrow the action to launch.
 
 🛋 For more comfort, I use a nice paid app [Paletro](https://appmakes.io/paletro), available also using [Setapp](https://go.setapp.com/invite/neko4) (the Netflix of Mac Apps).
 
