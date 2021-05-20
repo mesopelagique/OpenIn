@@ -24,4 +24,6 @@ Why?
 
 ---
 
+To open 4d project and sources files from other apps into 4D go to this project : https://github.com/mesopelagique/OpenWith4D
+
 [<img src="https://mesopelagique.github.io/quatred.png" alt="mesopelagique"/>](https://mesopelagique.github.io/)
